@@ -19,9 +19,8 @@ Income Statement: A complete projection of the company's profitability based on 
 Balance Sheet: A snapshot of the company's financial position, including assets, liabilities, and equity.
 Cash Flow Statement: An analysis of cash inflows and outflows, reflecting operational, investing, and financing activities.
 Usage
+
 The model can be used to:
-
-
 Analyze Eicher Motors' financial performance.
 Test different scenarios for growth, costs, and financing.
 Evaluate the company’s liquidity, profitability, and solvency over the forecast period.
