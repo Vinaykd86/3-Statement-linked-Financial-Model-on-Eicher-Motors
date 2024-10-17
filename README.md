@@ -3,6 +3,7 @@ This repository contains a comprehensive 3-statement financial model of Eicher M
 
 Project Overview
 3-Statement Financial Model Components
+
 Revenue Model: The revenue model forecasts Eicher Motors' sales based on historical data and projected growth drivers, segmented by business lines.
 
 Capex Model: A detailed capital expenditure model, estimating the company's future investments in fixed assets to sustain and grow operations.
