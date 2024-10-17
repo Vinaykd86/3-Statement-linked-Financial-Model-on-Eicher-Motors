@@ -1,4 +1,4 @@
-# 3-Statement-linked-Financial-Model-on-Eicher-Motors
+# 3 Statement linked Financial Model on Eicher Motors
 This repository contains a comprehensive 3-statement linked financial model of Eicher Motors. The model integrates key schedules and models that simulate the company's financial performance.
 
 Project Overview
