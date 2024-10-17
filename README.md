@@ -15,6 +15,9 @@ Working Capital Model: This model forecasts the company's working capital requir
 Cash Flow Statement: A cash flow statement derived from the revenue, capex, debt, and working capital models, providing insights into the company's liquidity and free cash flow over time.
 
 The model can be used to:
+
 Analyze Eicher Motors' financial performance.
+
 Test different scenarios for growth, costs, and financing.
+
 Evaluate the company’s liquidity, profitability, and solvency over the forecast period.
