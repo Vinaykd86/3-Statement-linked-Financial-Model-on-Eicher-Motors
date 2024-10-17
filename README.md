@@ -21,6 +21,7 @@ Cash Flow Statement: An analysis of cash inflows and outflows, reflecting operat
 Usage
 The model can be used to:
 
+
 Analyze Eicher Motors' financial performance.
 Test different scenarios for growth, costs, and financing.
 Evaluate the company’s liquidity, profitability, and solvency over the forecast period.
